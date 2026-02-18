@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=kasparsj&count_private=true&show_icons=true)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kasparsj)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <!--
 ### Hi there 👋
